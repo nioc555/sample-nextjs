@@ -1,0 +1,27 @@
+{
+  "name": "learn-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set port=1234 && next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@inovua/reactdatagrid-community": "^4.5.9",
+    "@material-ui/styles": "^4.11.4",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.2.6",
+    "babel-plugin-styled-components": "^2.0.2",
+    "lodash": "^4.17.21",
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-uuid": "^1.0.2"
+  }
+}
